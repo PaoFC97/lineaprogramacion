@@ -1,0 +1,87 @@
+
+body{
+    background:url("/img/fondo2.jpg");
+    margin-bottom: 10%;
+}
+/* encabezado */
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #A90909;
+    margin-top: 3%;
+    margin-bottom: 4%;
+    padding: 10px;
+    font-size: 400%;
+    font-weight: bold;
+}
+
+.container-fluid #p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    font-size: 130%;
+    text-align: center;
+    margin-right: 8%;
+    margin-left: 10%;
+}
+/* titulos y textos */
+.container-fluid #imperativo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 2%;
+    margin-bottom: 4%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 300%;
+    color:#E55A23;
+    
+}
+.container-fluid #imper{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 120%;
+    margin-top: 3.5%;
+    color:#E55A23;
+}
+
+.container-fluid #funcional{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 2%;
+    margin-bottom: 4%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 300%;
+    color:#F1A517;
+}
+.container-fluid #func{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 120%;
+    margin-top:3.5%;
+    color:#F1A517;
+}
+
+
+/* generales */
+.container-fluid .timeline-container p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    font-size: 130%;
+    text-align: justify;
+    margin-right: 8%;
+}
+.container-fluid img{
+    width: 70%;
+    height: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.container-fluid #span2{
+    font-weight: bold;
+}
+.container-fluid #span1{
+    font-style: italic;
+}
